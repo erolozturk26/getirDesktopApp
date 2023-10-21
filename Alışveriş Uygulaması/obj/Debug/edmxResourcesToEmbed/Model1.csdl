@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Kategori" EntityType="Model1.Kategori" />
+    <EntitySet Name="Kullanicilar" EntityType="Model1.Kullanicilar" />
+    <EntitySet Name="Kuryeler" EntityType="Model1.Kuryeler" />
+    <EntitySet Name="Musteriler" EntityType="Model1.Musteriler" />
+    <EntitySet Name="Satislar" EntityType="Model1.Satislar" />
+    <EntitySet Name="Urunler" EntityType="Model1.Urunler" />
+    <AssociationSet Name="FK_Urunler_Kategori" Association="Model1.FK_Urunler_Kategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="Urunler" EntitySet="Urunler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Satislar_Kuryeler" Association="Model1.FK_Satislar_Kuryeler">
+      <End Role="Kuryeler" EntitySet="Kuryeler" />
+      <End Role="Satislar" EntitySet="Satislar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Satislar_Musteriler" Association="Model1.FK_Satislar_Musteriler">
+      <End Role="Musteriler" EntitySet="Musteriler" />
+      <End Role="Satislar" EntitySet="Satislar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Satislar_Urunler" Association="Model1.FK_Satislar_Urunler">
+      <End Role="Urunler" EntitySet="Urunler" />
+      <End Role="Satislar" EntitySet="Satislar" />
+    </AssociationSet>
+    <EntitySet Name="sysdiagrams" EntityType="Model1.sysdiagrams" />
+  </EntityContainer>
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="KategoriID" />
+    </Key>
+    <Property Name="KategoriID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Kategori_Adi" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Kategori_Tanim" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Kullanicilar">
+    <Key>
+      <PropertyRef Name="KullaniciID" />
+    </Key>
+    <Property Name="KullaniciID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Kullanici_Adi" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Sifre" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Mail_Adresi" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Kullanici_Kontrol" Type="Boolean" DefaultValue="False" />
+  </EntityType>
+  <EntityType Name="Kuryeler">
+    <Key>
+      <PropertyRef Name="KuryeID" />
+    </Key>
+    <Property Name="KuryeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Kurye_Sirketi" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Kurye_Adi" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Kurye_Telefon" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Musteriler">
+    <Key>
+      <PropertyRef Name="MusteriID" />
+    </Key>
+    <Property Name="MusteriID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Musteri_Adi" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Musteri_Adres" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Musteri_Telefon" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Musteri_Sehir" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Musteri_KullaniciAdi" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Musteri_Sifre" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Musteri_MailAdresi" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="AdminYetkisi" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Satislar">
+    <Key>
+      <PropertyRef Name="SatisID" />
+    </Key>
+    <Property Name="SatisID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MusteriID" Type="Int32" Nullable="false" />
+    <Property Name="Satis_Tarihi" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Satis_OdenenTutar" Type="Int32" Nullable="false" />
+    <Property Name="Satis_KuryeUcreti" Type="Int32" Nullable="false" />
+    <Property Name="Satis_Adresi" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="KuryeID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Kuryeler" Relationship="Model1.FK_Satislar_Kuryeler" FromRole="Satislar" ToRole="Kuryeler" />
+    <NavigationProperty Name="Musteriler" Relationship="Model1.FK_Satislar_Musteriler" FromRole="Satislar" ToRole="Musteriler" />
+    <NavigationProperty Name="Urunler" Relationship="Model1.FK_Satislar_Urunler" FromRole="Satislar" ToRole="Urunler" />
+    <Property Name="UrunAdlari" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="UrunID" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Urunler">
+    <Key>
+      <PropertyRef Name="UrunID" />
+    </Key>
+    <Property Name="UrunID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Urun_Adi" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="KategoriID" Type="Int32" Nullable="false" />
+    <Property Name="Urun_Fiyati" Type="Int32" Nullable="false" />
+    <Property Name="Urun_StokDuzeyi" Type="Int32" Nullable="false" />
+    <Property Name="UrunAciklama" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Urun_image" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_Urunler_Kategori">
+    <End Type="Model1.Kategori" Role="Kategori" Multiplicity="1" />
+    <End Type="Model1.Urunler" Role="Urunler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="KategoriID" />
+      </Principal>
+      <Dependent Role="Urunler">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Satislar_Kuryeler">
+    <End Type="Model1.Kuryeler" Role="Kuryeler" Multiplicity="1" />
+    <End Type="Model1.Satislar" Role="Satislar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kuryeler">
+        <PropertyRef Name="KuryeID" />
+      </Principal>
+      <Dependent Role="Satislar">
+        <PropertyRef Name="KuryeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Satislar_Musteriler">
+    <End Type="Model1.Musteriler" Role="Musteriler" Multiplicity="1" />
+    <End Type="Model1.Satislar" Role="Satislar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteriler">
+        <PropertyRef Name="MusteriID" />
+      </Principal>
+      <Dependent Role="Satislar">
+        <PropertyRef Name="MusteriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Satislar_Urunler">
+    <End Type="Model1.Urunler" Role="Urunler" Multiplicity="1" />
+    <End Type="Model1.Satislar" Role="Satislar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Urunler">
+        <PropertyRef Name="UrunID" />
+      </Principal>
+      <Dependent Role="Satislar">
+        <PropertyRef Name="UrunID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+</Schema>

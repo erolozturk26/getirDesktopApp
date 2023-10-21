@@ -1,0 +1,183 @@
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe.config
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.pdb
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.dll
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.xml
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Form1.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.exe
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.pdb
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Anasayfa.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.UrunEkle.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.AssemblyReference.cache
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Anasayfa.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Form1.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Properties.Resources.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.UrunEkle.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.GenerateResource.cache
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.exe
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.pdb
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe.config
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.pdb
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.dll
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.xml
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CopyComplete
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.HizliKategoriEkle.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KategoriEkleme.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KuryeEkle.resources
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe.config
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.pdb
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.dll
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.xml
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Anasayfa.resources
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Form1.resources
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KuryeEkle.resources
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.HizliKategoriEkle.resources
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KategoriEkleme.resources
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.UrunEkle.resources
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.exe
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.pdb
+C:\Users\STUDENT2\Desktop\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.SecimEkrani.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe.config
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.pdb
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.dll
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.xml
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.AssemblyReference.cache
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Anasayfa.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Form1.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KuryeEkle.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.HizliKategoriEkle.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KategoriEkleme.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Properties.Resources.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.SecimEkrani.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.UrunEkle.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.GenerateResource.cache
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CopyComplete
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.exe
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.pdb
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Anasayfa.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Form1.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KuryeEkle.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.HizliKategoriEkle.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KategoriEkleme.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.SecimEkrani.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.UrunEkle.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.exe
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.pdb
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe.config
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.pdb
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.dll
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.xml
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CopyComplete
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe.config
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.pdb
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.dll
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.xml
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.AssemblyReference.cache
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Anasayfa.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Form1.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KuryeEkle.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.HizliKategoriEkle.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KategoriEkleme.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Properties.Resources.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.SecimEkrani.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.UrunEkle.resources
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.GenerateResource.cache
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CopyComplete
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.exe
+C:\Users\erolo\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Uygulamaları\Form Büyük Projeler\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.pdb
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.AssemblyReference.cache
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Anasayfa.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Form1.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KuryeEkle.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.HizliKategoriEkle.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KategoriEkleme.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Properties.Resources.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.SecimEkrani.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.UrunEkle.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.GenerateResource.cache
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.exe
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.pdb
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe.config
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.pdb
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.dll
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.xml
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CopyComplete
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.MusteriEkleme.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Hesabim.resources
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe.manifest
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.application
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.exe.manifest
+C:\Users\erolo\Desktop\Alışveriş Uygulaması 22-04\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.application
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe.config
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe.manifest
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.application
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.exe
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\Alışveriş Uygulaması.pdb
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.dll
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.dll
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.xml
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\bin\Debug\EntityFramework.SqlServer.xml
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.AssemblyReference.cache
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.SuggestedBindingRedirects.cache
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Anasayfa.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Form1.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Hesabim.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KuryeEkle.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.HizliKategoriEkle.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.KategoriEkleme.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.MusteriEkleme.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.Properties.Resources.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.SecimEkrani.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş_Uygulaması.UrunEkle.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.GenerateResource.cache
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CoreCompileInputs.cache
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.exe.manifest
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.application
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.csproj.CopyComplete
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.exe
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Biten Projeler\Alışveriş Uygulaması\Alışveriş Uygulaması\obj\Debug\Alışveriş Uygulaması.pdb
