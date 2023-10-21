@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="KategoriID" />
+    </Key>
+    <Property Name="KategoriID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Kategori_Adi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Kategori_Tanim" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Kullanicilar">
+    <Key>
+      <PropertyRef Name="KullaniciID" />
+    </Key>
+    <Property Name="KullaniciID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Kullanici_Adi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Sifre" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Mail_Adresi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Kullanici_Kontrol" Type="bit" />
+  </EntityType>
+  <EntityType Name="Kuryeler">
+    <Key>
+      <PropertyRef Name="KuryeID" />
+    </Key>
+    <Property Name="KuryeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Kurye_Sirketi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Kurye_Adi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Kurye_Telefon" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Musteriler">
+    <Key>
+      <PropertyRef Name="MusteriID" />
+    </Key>
+    <Property Name="MusteriID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Musteri_KullaniciAdi" Type="nvarchar(max)" />
+    <Property Name="Musteri_Sifre" Type="nvarchar(max)" />
+    <Property Name="Musteri_Adi" Type="nvarchar(max)" />
+    <Property Name="Musteri_Adres" Type="nvarchar(max)" />
+    <Property Name="Musteri_Telefon" Type="nvarchar(max)" />
+    <Property Name="Musteri_Sehir" Type="nvarchar(max)" />
+    <Property Name="Musteri_MailAdresi" Type="nvarchar(max)" />
+    <Property Name="AdminYetkisi" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Satislar">
+    <Key>
+      <PropertyRef Name="SatisID" />
+    </Key>
+    <Property Name="SatisID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MusteriID" Type="int" Nullable="false" />
+    <Property Name="Satis_Tarihi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Satis_OdenenTutar" Type="int" Nullable="false" />
+    <Property Name="Satis_KuryeUcreti" Type="int" Nullable="false" />
+    <Property Name="Satis_Adresi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="UrunAdlari" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="KuryeID" Type="int" Nullable="false" />
+    <Property Name="UrunID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Urunler">
+    <Key>
+      <PropertyRef Name="UrunID" />
+    </Key>
+    <Property Name="UrunID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Urun_Adi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="KategoriID" Type="int" Nullable="false" />
+    <Property Name="Urun_Fiyati" Type="int" Nullable="false" />
+    <Property Name="Urun_StokDuzeyi" Type="int" Nullable="false" />
+    <Property Name="UrunAciklama" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Urun_image" Type="nvarchar(max)" />
+  </EntityType>
+  <Association Name="FK_Satislar_Kuryeler">
+    <End Role="Kuryeler" Type="Self.Kuryeler" Multiplicity="1" />
+    <End Role="Satislar" Type="Self.Satislar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kuryeler">
+        <PropertyRef Name="KuryeID" />
+      </Principal>
+      <Dependent Role="Satislar">
+        <PropertyRef Name="KuryeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Satislar_Musteriler">
+    <End Role="Musteriler" Type="Self.Musteriler" Multiplicity="1" />
+    <End Role="Satislar" Type="Self.Satislar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteriler">
+        <PropertyRef Name="MusteriID" />
+      </Principal>
+      <Dependent Role="Satislar">
+        <PropertyRef Name="MusteriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Urunler_Kategori">
+    <End Role="Kategori" Type="Self.Kategori" Multiplicity="1" />
+    <End Role="Urunler" Type="Self.Urunler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="KategoriID" />
+      </Principal>
+      <Dependent Role="Urunler">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Model1StoreContainer">
+    <EntitySet Name="Kategori" EntityType="Self.Kategori" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kullanicilar" EntityType="Self.Kullanicilar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kuryeler" EntityType="Self.Kuryeler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Musteriler" EntityType="Self.Musteriler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Satislar" EntityType="Self.Satislar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Urunler" EntityType="Self.Urunler" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Satislar_Kuryeler" Association="Self.FK_Satislar_Kuryeler">
+      <End Role="Kuryeler" EntitySet="Kuryeler" />
+      <End Role="Satislar" EntitySet="Satislar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Satislar_Musteriler" Association="Self.FK_Satislar_Musteriler">
+      <End Role="Musteriler" EntitySet="Musteriler" />
+      <End Role="Satislar" EntitySet="Satislar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Urunler_Kategori" Association="Self.FK_Urunler_Kategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="Urunler" EntitySet="Urunler" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
